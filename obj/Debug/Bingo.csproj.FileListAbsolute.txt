@@ -7,3 +7,4 @@ C:\Users\LUCHO\Documents\Visual Studio 2019\Projects\Bingo\obj\Debug\Bingo.cspro
 C:\Users\LUCHO\Documents\Visual Studio 2019\Projects\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
 C:\Users\LUCHO\Documents\Visual Studio 2019\Projects\Bingo\obj\Debug\Bingo.exe
 C:\Users\LUCHO\Documents\Visual Studio 2019\Projects\Bingo\obj\Debug\Bingo.pdb
+C:\Users\LUCHO\Documents\Visual Studio 2019\Projects\Bingo\obj\Debug\Bingo.frmBingo.resources
